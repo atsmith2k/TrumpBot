@@ -1,0 +1,11 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Hop on the Trump Train or get out of the way.",
+  "main": "bot.js",
+  "author": "atsmith2k",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
